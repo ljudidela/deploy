@@ -1,0 +1,21 @@
+{
+  "name": "gta-san-andreas-landing",
+  "version": "1.0.0",
+  "description": "Landing page for GTA: San Andreas with animations and modern design",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve -s ."
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "keywords": [
+    "gta",
+    "sanandreas",
+    "landing",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
